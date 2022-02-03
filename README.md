@@ -1,2 +1,4 @@
 # covid_da
-pycaret 연습용 forecasting 모델
+코로나19 확진자를 추정해보는 프로젝트
+
+사용 library: pycaret
